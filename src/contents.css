@@ -1,0 +1,13 @@
+.portfolio {
+  background: mediumaquamarine; }
+  .portfolio h2 {
+    padding: 10px 0;
+    text-align: center; }
+  .portfolio .list {
+    width: 1000px;
+    margin: 0 auto; }
+    .portfolio .list > li {
+      display: inline-block;
+      width: 230px;
+      height: 500px;
+      vertical-align: top; }
