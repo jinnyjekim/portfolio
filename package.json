@@ -22,7 +22,7 @@
     "predeploy": "npm run build"
   },
   "devDependencies": {
-    "node-sass": "^3.4.2"
+    "node-sass": "^4.14.1"
   },
   "eslintConfig": {
     "extends": "react-app"
